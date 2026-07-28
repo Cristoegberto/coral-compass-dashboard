@@ -1,5 +1,9 @@
 6# Coral Compass: Scuba Destination Explorer
+
 An interactive Tableau dashboard that compares scuba diving destinations around the world based on factors like affordability, accessibility, marine biodiversity, and unique diving experiences.
+
+## Dashboard Preview
+![Coral Compass Tableau Dashboard](dashboard.png)
 
 **Live Dashboard:** 
 https://public.tableau.com/views/DiveDashboard-CoralCompass/Dashboard1
