@@ -1,0 +1,24 @@
+Coral Compass Dive Destination Dashboard
+Tools Used:
+•	Tableau 
+•	Excel 
+•	Data Cleaning 
+•	Data Research 
+•	Dashboard Design 
+•	Data Visualization
+
+Introduction
+Coral Compass is a scuba diving travel agency that specializes in helping travelers find unforgettable dive vacations. The goal of this project was to create an interactive Tableau dashboard that would help travel agents quickly recommend destinations based on a customer's budget, diving experience, and interest in unique underwater experiences.
+The Challenge
+The biggest challenge wasn't building the dashboard, it was deciding what information would be most valuable to include. There isn't a single "best" dive destination. Some locations are famous for marine life, others for affordability, luxury resorts, wreck diving, or accessibility.
+To solve this, I researched and compared destinations around the world, selecting locations that offered a balanced mix of unique diving experiences, different price points, varying skill levels, and overall travel appeal. My goal was to think like both a travel agent and a customer to create a tool that would support real-world decision making.
+My Approach
+After gathering and organizing the data, I used Tableau to design an interactive dashboard that allows users to compare destinations and explore the information from multiple perspectives. 
+Throughout the project, I focused on making the dashboard intuitive and easy to navigate by connecting worksheets with Tableau actions and creating a layout that guides users naturally through the data.
+Results
+The finished dashboard gives travel agents a practical tool for helping clients narrow down destination choices based on their individual preferences rather than simply recommending the cheapest or most popular location.
+Because I am an avid scuba diver and traveler, I was able to combine personal knowledge with data analysis to create a dashboard that is both informative and relevant to the needs of the business.
+What I Learned
+This project strengthened my Tableau skills, particularly working with dashboard actions and designing interactive visualizations. More importantly, it taught me how to think beyond the data by considering the business problem first and then building a solution that helps users make better decisions.
+Conclusion
+The Coral Compass dashboard demonstrates how thoughtful research, data organization, and interactive visualization can transform complex travel information into an easy to use, decision making tool. By combining analytical thinking with an understanding of customer needs, the dashboard helps travel agents confidently recommend dive vacations that fit a wide range of budgets, experience levels, and travel goals.
